@@ -21,7 +21,7 @@
 Texto simples sobre o que você faz, tecnologias, objetivos, etc.
 
 ---
-
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,jest,cs,dotnet,react,redux,mongodb,redis,aws,jquery,bootstrap,vscode)](https://skillicons.dev)
 ### 🚀 Tecnologias
 
 - Node.js
